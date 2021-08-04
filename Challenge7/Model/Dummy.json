@@ -1,0 +1,24 @@
+[
+	{
+		"title": "note 1",
+		"note": "some text",
+	},
+	
+	{
+		"title": "note 2",
+		"note": "some text here",
+	},
+	
+	{
+		"title": "note 3",
+		"note": "some random text",
+	},
+	{
+		"title": "note 4",
+		"note": "some text",
+	},
+	{
+		"title": "note 5",
+		"note": "some random text",
+	}
+]
